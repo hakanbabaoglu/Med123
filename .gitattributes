@@ -1,0 +1,2 @@
+# Large files için ipucu (LFS kullanacaksanız etkinleştirin)
+# *.bin filter=lfs diff=lfs merge=lfs -text
